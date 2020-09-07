@@ -1,0 +1,23 @@
+.datatable .col {
+  cursor: pointer;
+}
+
+.datatable .col .pointer:after {
+  font-size: 80%;
+  content: "";
+  margin-right: 18px;
+}
+
+.datatable .col .pointer:hover:after {
+  font-size: 80%;
+  content: " (sort)";
+  margin-right: 0;
+}
+
+.img-responsive {
+  border-radius: 50%;
+}
+
+.align-middle {
+  padding: .5em 0em .5em;
+}

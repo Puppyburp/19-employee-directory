@@ -1,0 +1,17 @@
+.searchbox {
+  text-align: center;
+  justify-content: center;
+}
+
+.searchbox button {
+  border: 1px solid #101D42;
+}
+
+.searchbox button:hover {
+  background-color: #101D42;
+  color: #ffffff;
+}
+
+.form-control {
+  padding: .5em 5em .5em .5em;
+}
