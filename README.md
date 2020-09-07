@@ -7,4 +7,4 @@ A React based directory that allows users to search for employees by name and fi
 <img src="/public/employee-directory-demo.png" alt="drawing" width="600"/>
 
 ## Demo
-View demo app here: 
+View demo app here: [link to working demo](https://puppyburp.github.io/19-employee-directory/)
